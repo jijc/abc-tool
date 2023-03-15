@@ -6,10 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jijc/abc-tool.git"
+  },
   "keywords": [
     "aobing",
     "tool"
   ],
   "author": "aobing chi",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jijc/abc-tool/issues"
+  },
+  "homepage": "https://github.com/jijc/abc-tool#readme"
 }
